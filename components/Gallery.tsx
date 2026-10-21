@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 
-const photos = Array.from({ length: 34 }, (_, i) => ({
+const photos = Array.from({ length: 37 }, (_, i) => ({
   src: `/photos/${i + 1}.jpeg`,
   caption: `Momen ${i + 1}`,
 }));
@@ -48,7 +48,7 @@ export default function Gallery() {
         Kenangan
       </h2>
       <p className="text-center text-[#8A7B72] text-sm mb-12">
-        34 momen yang kita lalui bersama
+        37 momen yang kita lalui bersama
       </p>
 
       {/* ===== MOSAIC 6 FOTO ===== */}
@@ -94,7 +94,7 @@ export default function Gallery() {
           onClick={() => setModalOpen(true)}
           className="px-8 py-3 rounded-full bg-[#E8B4B8] text-white font-medium shadow-md hover:bg-[#DCA0A4] transition-colors"
         >
-          Lihat semua 34 kenangan →
+          Lihat semua 37 kenangan →
         </button>
       </div>
 
