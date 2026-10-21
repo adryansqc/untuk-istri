@@ -68,7 +68,7 @@ export default function Letter() {
 
           <p className="text-[#5C4F48] leading-relaxed mb-4">
             Mas juga ingin bilang, adek itu luar biasa. adek cantik bukan hanya dari
-            wajahmu, tapi dari hatimu yang lembut, sabarmu yang panjang, dan cara adek 
+            wajah, tapi juga dari hati yang baik, sabar yang panjang, dan cara adek 
             menyayangi orang-orang di sekitar adek. adek kuat, adek hebat, dan adek jauh
             lebih baik dari yang kadang adek kira. Mas bangga punya istri seperti adek.
             Mas bangga bisa memanggil adek istriku.
