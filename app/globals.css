@@ -81,3 +81,30 @@ body {
   animation-iteration-count: infinite;
   will-change: transform, opacity;
 }
+
+/* ===== Animasi Kartu Dedek Lila ===== */
+@keyframes babyCardOpen {
+  0% {
+    transform: scale(0.6) rotate(-5deg);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.05) rotate(2deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+  }
+}
+
+@keyframes babyHeartFloat {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(-40px) scale(1.4);
+    opacity: 0;
+  }
+}

@@ -11,6 +11,7 @@ import MusicPlayer from "@/components/MusicPlayer";
 import FadeIn from "@/components/FadeIn";
 import TogetherCounter from "@/components/TogetherCounter";
 import Petals from "@/components/Petals";
+import FromBaby from "@/components/FromBaby";
 
 export default function Home() {
   const [opened, setOpened] = useState(false);
@@ -50,6 +51,7 @@ export default function Home() {
         <FadeIn><Wishes /></FadeIn>
         <FadeIn><Gallery /></FadeIn>
         <FadeIn><Letter /></FadeIn>
+        <FadeIn><FromBaby /></FadeIn>
         <FadeIn><Closing /></FadeIn>
       </div>
 
