@@ -76,7 +76,7 @@ export default function Letter() {
 
           <p className="text-[#5C4F48] leading-relaxed mb-4">
             Di hari spesial adek ini, Mas ingin mengucapkan selamat ulang tahun. Semoga
-            Allah selalu menjaga adek, memberikan kesehatan, memudahkan setiap urusanmu,
+            Allah selalu menjaga adek, memberikan kesehatan, memudahkan setiap urusan adek,
             melimpahkan rezeki, dan mengabulkan semua doa-doa baik yang adek simpan
             dalam hati. Semoga adek selalu bahagia, selalu tersenyum, dan selalu
             dikelilingi oleh orang-orang yang menyayangi adek.
