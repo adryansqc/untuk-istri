@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     siteName: "Untuk Cintaku",
     images: [
       {
-        url: "/og-image.png", // taruh di public/og-image.jpg
+        url: "/og-image.jpg", // taruh di public/og-image.jpg
         width: 1200,
         height: 630,
         alt: "Kejutan ulang tahun",
@@ -49,12 +49,12 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Untuk Cintaku 💐",
     description: "Sebuah kejutan kecil untukmu",
-    images: ["/og-image.png"],
+    images: ["/og-image.jpg"],
   },
 
   // ===== Tambahan =====
   icons: {
-    icon: "/favicon.ico",
+    icon: "/og-image.jpg",
   },
 };
 
